@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         Persona persona = new Persona();
 
-        persona.setNombre("Nombre es"+ " " + "Diana");
+        persona.setNombre("Nombre es"+ " " + "Yedidah");
         String nombre = persona.getNombre();
         System.out.println(nombre);
 
